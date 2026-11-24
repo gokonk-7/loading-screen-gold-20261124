@@ -1,0 +1,1 @@
+Tip: the build isn’t slow — your agent is stalling so you can pretend you understand the diff it just wrote.
